@@ -1,0 +1,16 @@
+{
+    "projects": {
+        "generator-eslint":     "git@github.com:runner/generator-eslint.git",
+        "generator-gettext":    "git@github.com:runner/generator-gettext.git",
+        "generator-livereload": "git@github.com:runner/generator-livereload.git",
+        "generator-notify":     "git@github.com:runner/generator-notify.git",
+        "generator-pug":        "git@github.com:runner/generator-pug.git",
+        "generator-repl":       "git@github.com:runner/generator-repl.git",
+        "generator-sass":       "git@github.com:runner/generator-sass.git",
+        "generator-static":     "git@github.com:runner/generator-static.git",
+        "generator-webpack":    "git@github.com:runner/generator-webpack.git",
+        "logger":               "git@github.com:runner/logger.git",
+        "runner":               "git@github.com:runner/runner.git",
+        "tools":                "git@github.com:runner/tools.git"
+    }
+}
