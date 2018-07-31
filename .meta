@@ -4,6 +4,7 @@
         "generator-gettext":    "git@github.com:runner/generator-gettext.git",
         "generator-livereload": "git@github.com:runner/generator-livereload.git",
         "generator-notify":     "git@github.com:runner/generator-notify.git",
+        "generator-npm":        "git@github.com:runner/generator-npm.git",
         "generator-pug":        "git@github.com:runner/generator-pug.git",
         "generator-repl":       "git@github.com:runner/generator-repl.git",
         "generator-sass":       "git@github.com:runner/generator-sass.git",
