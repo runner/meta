@@ -14,5 +14,10 @@
     "dependencies": {
         "meta-npm": "^0.0.28"
     },
+    "keywords": [
+        "task",
+        "runner",
+        "meta"
+    ],
     "license": "GPL-3.0"
 }
