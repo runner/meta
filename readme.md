@@ -12,10 +12,10 @@ sudo npm install -g meta
 Get meta repo:
 
 ```bash
-git clone https://github.com/runner/meta.git @runner
+git clone https://github.com/runner/meta.git runner
 # or for Github users with granted access
-git clone git@github.com:runner/meta.git @runner
-cd @runner
+git clone git@github.com:runner/meta.git runner
+cd runner
 ```
 
 All preparations:
