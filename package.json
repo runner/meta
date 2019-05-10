@@ -1,5 +1,5 @@
 {
-    "name": "@runner/meta",
+    "name": "runner-meta",
     "version": "1.0.0",
     "description": "Runner repositories management.",
     "author": {
