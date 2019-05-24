@@ -3,12 +3,6 @@ Runner management
 
 ## Usage ##
 
-Install global dependencies:
-
-```bash
-sudo npm install -g meta
-```
-
 Get meta repo:
 
 ```bash
@@ -22,9 +16,9 @@ All preparations:
 
 ```bash
 npm install
-meta git update
-meta npm install
-sudo meta npm link --all
+npx meta git update
+npx meta npm install
+sudo npx meta npm link --all
 ```
 
 
