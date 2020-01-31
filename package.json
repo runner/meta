@@ -12,8 +12,8 @@
         "url": "https://github.com/runner/meta.git"
     },
     "dependencies": {
-        "meta": "^1.2.18",
-        "meta-npm": "^1.0.3"
+        "meta": "^2.2.12",
+        "meta-npm": "^1.2.4"
     },
     "keywords": [
         "task",

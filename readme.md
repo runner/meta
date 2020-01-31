@@ -3,22 +3,20 @@ Runner management
 
 ## Usage ##
 
-Get meta repo:
-
-```bash
-git clone https://github.com/runner/meta.git runner
-# or for Github users with granted access
-git clone git@github.com:runner/meta.git runner
-cd runner
-```
-
-All preparations:
+Deployment:
 
 ```bash
 npm install
 npx meta git update
 npx meta npm install
 sudo npx meta npm link --all
+```
+
+Get updates and check dependencies:
+
+```bash
+npx meta git pull
+npx meta npm outdated
 ```
 
 
